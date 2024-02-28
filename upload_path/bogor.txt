@@ -1,0 +1,496 @@
+115	|	Balungbang Jaya 	|	16116
+115	|	Bubulak 	|	16115
+115	|	Cilendek Barat 	|	16112
+115	|	Cilendek Timur 	|	16112
+115	|	Curug 	|	16113
+115	|	Curug Mekar 	|	16113
+115	|	Gunungbatu 	|	16118
+115	|	Loji 	|	16117
+115	|	Margajaya 	|	16116
+115	|	Menteng 	|	16111
+115	|	Pasir Jaya 	|	16119
+115	|	Pasir Kuda 	|	16119
+115	|	Pasir Mulya 	|	16118
+115	|	Semplak 	|	16114
+115	|	Sindangbarang 	|	16117
+115	|	Situ Gede 	|	16115
+116	|	Batutulis 	|	16133
+116	|	Bojongkerta 	|	16139
+116	|	Bondongan 	|	16131
+116	|	Cikaret 	|	16132
+116	|	Cipaku 	|	16133
+116	|	Empang 	|	16132
+116	|	Genteng 	|	16137
+116	|	Harjasari 	|	16138
+116	|	Kertamaya 	|	16138
+116	|	Lawang Gintung 	|	16134
+116	|	Muarasari 	|	16137
+116	|	Mulyaharja 	|	16135
+116	|	Pakuan 	|	16134
+116	|	Pamoyanan 	|	16136
+116	|	Rancamaya 	|	16139
+116	|	Ranggamekar 	|	16136
+117	|	Babakan 	|	16128
+117	|	Babakan Pasar 	|	16126
+117	|	Cibogor 	|	16124
+117	|	Ciwaringin 	|	16124
+117	|	Gudang 	|	16123
+117	|	Kebon Kelapa 	|	16125
+117	|	Pabaton 	|	16121
+117	|	Paledang 	|	16122
+117	|	Panaragan 	|	16125
+117	|	Sempur 	|	16129
+117	|	Tegal Panjang 	|	16129
+118	|	Baranangsiang 	|	16143
+118	|	Katulampa 	|	16144
+118	|	Sindangrasa 	|	16145
+118	|	Sindangsari 	|	16146
+118	|	Sukasari 	|	16142
+118	|	Tajur 	|	16141
+119	|	Bantarjati 	|	16153
+119	|	Cibuluh 	|	16151
+119	|	Ciluar 	|	16156
+119	|	Cimahpar 	|	16155
+119	|	Ciparigi 	|	16157
+119	|	Kedunghalang 	|	16158
+119	|	Tanah Baru 	|	16154
+119	|	Tegal Gundil 	|	16152
+120	|	Cibadak 	|	16166
+120	|	Kayumanis 	|	16169
+120	|	Kebon Pedes 	|	16162
+120	|	Kedung Badak 	|	16164
+120	|	Kedung Jaya 	|	16164
+120	|	Kedung Waringin 	|	16164
+120	|	Kencana 	|	16167
+120	|	Mekarwangi 	|	16168
+120	|	Sukadamai 	|	16165
+120	|	Sukaresmi 	|	16165
+120	|	Tanah Sareal 	|	16161
+121	|	Babakan Madang 	|	16810
+121	|	Bojong Koneng 	|	16810
+121	|	Cijayanti 	|	16810
+121	|	Cipambuan 	|	16810
+121	|	Citaringgul 	|	16810
+121	|	Kadumangu 	|	16810
+121	|	Karang Tengah 	|	16810
+121	|	Sentul 	|	16810
+121	|	Sumur Batu 	|	16810
+122	|	Bojong Baru 	|	16920
+122	|	Bojong Gede 	|	16922
+122	|	Cimanggis 	|	16920
+122	|	Kedung Waringin 	|	16923
+122	|	Pabuaran 	|	16921
+122	|	Ragajaya 	|	16920
+122	|	Rawa Panjang 	|	16920
+122	|	Susukan 	|	16920
+122	|	Waringin Jaya 	|	16920
+123	|	Caringin 	|	16730
+123	|	Ciderum 	|	16730
+123	|	Ciherang Pondok 	|	16730
+123	|	Cimande 	|	16730
+123	|	Cimande Hilir 	|	16730
+123	|	Cinagara 	|	16730
+123	|	Lemah Duhur 	|	16730
+123	|	Muarajaya 	|	16730
+123	|	Pancawati 	|	16730
+123	|	Pasir Buncir 	|	16730
+123	|	Pasir Muncang 	|	16730
+123	|	Tangkil 	|	16730
+124	|	Babakan Raden 	|	16840
+124	|	Bantar Kuning 	|	16840
+124	|	Cariu 	|	16840
+124	|	Cibatu Tiga 	|	16840
+124	|	Cikutamahi 	|	16840
+124	|	Karya Mekar 	|	16840
+124	|	Kuta Mekar 	|	16840
+124	|	Mekarwangi 	|	16840
+124	|	Sukajadi 	|	16840
+124	|	Tegal Panjang 	|	16840
+125	|	Benteng 	|	16620
+125	|	Bojong Jengkol 	|	16620
+125	|	Bojong Rangkas 	|	16620
+125	|	Ciampea 	|	16620
+125	|	Ciampea Udik 	|	16620
+125	|	Cibadak 	|	16620
+125	|	Cibanteng 	|	16620
+125	|	Cibuntu 	|	16620
+125	|	Cicadas 	|	16620
+125	|	Cihideung Ilir 	|	16620
+125	|	Cihideung Udik 	|	16620
+125	|	Cinangka 	|	16620
+125	|	Tegal Waru 	|	16620
+126	|	Banjar Sari 	|	16720
+126	|	Banjar Wangi 	|	16720
+126	|	Banjar Waru 	|	16720
+126	|	Bendungan 	|	16720
+126	|	Bitung Sari 	|	16720
+126	|	Bojong Murni 	|	16720
+126	|	Ciawi 	|	16720
+126	|	Cibedug 	|	16720
+126	|	Cileungsi 	|	16720
+126	|	Citapen 	|	16720
+126	|	Jambu Luwuk 	|	16720
+126	|	Pandansari 	|	16720
+126	|	Teluk Pinang 	|	16720
+127	|	Cibinong 	|	16911
+127	|	Cirimekar 	|	16917
+127	|	Ciriung 	|	16918
+127	|	Harapan Jaya 	|	16914
+127	|	Karadenan 	|	16913
+127	|	Nanggewer 	|	16912
+127	|	Nanggewer Mekar 	|	16912
+127	|	Pabuaran 	|	16916
+127	|	Pakansari 	|	16915
+127	|	Pondok Rajeg 	|	16914
+127	|	Sukahati 	|	16913
+127	|	Tengah 	|	16914
+128	|	Cemplang 	|	16630
+128	|	Ciaruteun Ilir 	|	16630
+128	|	Ciaruteun Udik 	|	16630
+128	|	Cibatok 1 	|	16630
+128	|	Cibatok 2 	|	16630
+128	|	Cijujung 	|	16630
+128	|	Cimanggu 1 	|	16630
+128	|	Cimanggu 2 	|	16630
+128	|	Dukuh 	|	16630
+128	|	Galuga 	|	16630
+128	|	Girimulya 	|	16630
+128	|	Leuweung Kolot 	|	16630
+128	|	Situ Ilir 	|	16630
+128	|	Situ Udik 	|	16630
+128	|	Sukamaju 	|	16630
+129	|	Ciadeg 	|	16110
+129	|	Ciburayut 	|	16110
+129	|	Ciburuy 	|	16110
+129	|	Cigombong 	|	16110
+129	|	Cisalada 	|	16110
+129	|	Pasir Jaya 	|	16119
+129	|	Srogol 	|	16110
+129	|	Tugujaya 	|	16110
+129	|	Watesjaya 	|	16110
+130	|	Argapura 	|	16660
+130	|	Bangunjaya 	|	16660
+130	|	Banyu Asih 	|	16660
+130	|	Banyu Resmi 	|	16660
+130	|	Banyu Wangi 	|	16660
+130	|	Batu Jajar 	|	16660
+130	|	Bunar 	|	16660
+130	|	Cigudeg 	|	16660
+130	|	Cintamanik 	|	16660
+130	|	Mekarjaya 	|	16660
+130	|	Rengasjajar 	|	16660
+130	|	Sukamaju 	|	16660
+130	|	Sukaraksa 	|	16660
+130	|	Tegallega 	|	16660
+130	|	Wargajaya 	|	16660
+131	|	Cibalung 	|	16740
+131	|	Cijeruk 	|	16740
+131	|	Cipelang 	|	16740
+131	|	Cipicung 	|	16740
+131	|	Palasari 	|	16740
+131	|	Sukaharja 	|	16740
+131	|	Tajur Halang 	|	16740
+131	|	Tanjung Sari 	|	16740
+131	|	Warung Menteng 	|	16740
+132	|	Cileungsi 	|	16820
+132	|	Cileungsi Kidul 	|	16820
+132	|	Cipenjo 	|	16820
+132	|	Cipeucang 	|	16820
+132	|	Dayeuh 	|	16820
+132	|	Gandoang 	|	16820
+132	|	Jatisari 	|	16820
+132	|	Limus Nunggal 	|	16820
+132	|	Mampir 	|	16820
+132	|	Mekarsari 	|	16820
+132	|	Pasir Angin 	|	16820
+132	|	Setu Sari 	|	16820
+133	|	Ciapus 	|	16610
+133	|	Ciomas 	|	16610
+133	|	Ciomas Rahayu 	|	16610
+133	|	Kota Batu 	|	16610
+133	|	Laladon 	|	16610
+133	|	Mekarjaya 	|	16610
+133	|	Padasuka 	|	16610
+133	|	Pagelaran 	|	16610
+133	|	Parakan 	|	16610
+133	|	Sukaharja 	|	16610
+133	|	Sukamakmur 	|	16610
+134	|	Batu Layang 	|	16750
+134	|	Cibeureum 	|	16750
+134	|	Cilember 	|	16750
+134	|	Cisarua 	|	16750
+134	|	Citeko 	|	16750
+134	|	Jogjogan 	|	16750
+134	|	Kopo 	|	16750
+134	|	Leuwimalang 	|	16750
+134	|	Tugu Selatan 	|	16750
+134	|	Tugu Utara 	|	16750
+135	|	Babakan 	|	16120
+135	|	Cibentang 	|	16120
+135	|	Cibeuteung Muara 	|	16120
+135	|	Cibeuteung Udik 	|	16120
+135	|	Cihoe (Cihowe) 	|	16120
+135	|	Ciseeng 	|	16120
+135	|	Karihkil 	|	16120
+135	|	Kuripan 	|	16120
+135	|	Parigi Mekar 	|	16120
+135	|	Putat Nutug 	|	16120
+136	|	Citeureup 	|	16810
+136	|	Gunung Sari 	|	16810
+136	|	Hambalang 	|	16810
+136	|	Karang Asem Barat 	|	16810
+136	|	Karang Asem Timur 	|	16810
+136	|	Leuwinutug 	|	16810
+136	|	Pasir Mukti 	|	16810
+136	|	Puspanegara 	|	16810
+136	|	Puspasari 	|	16810
+136	|	Sanja 	|	16810
+136	|	Sukahati 	|	16810
+136	|	Tajur 	|	16810
+136	|	Tangkil 	|	16810
+136	|	Tarikolot 	|	16810
+137	|	Babakan 	|	16680
+137	|	Ciherang 	|	16680
+137	|	Cikarawang 	|	16680
+137	|	Dramaga 	|	16680
+137	|	Neglasari 	|	16680
+137	|	Petir 	|	16680
+137	|	Purwasari 	|	16680
+137	|	Sinar Sari 	|	16680
+137	|	Sukadamai 	|	16680
+137	|	Sukawening 	|	16680
+138	|	Bojong Kulur 	|	16969
+138	|	Bojong Nangka 	|	16963
+138	|	Ciangsana 	|	16968
+138	|	Cicadas 	|	16964
+138	|	Cikeas Udik 	|	16966
+138	|	Gunung Putri 	|	16961
+138	|	Karanggan 	|	16960
+138	|	Nagrag 	|	16967
+138	|	Tlajung Udik 	|	16962
+138	|	Wanaherang 	|	16965
+139	|	Cibadung 	|	16340
+139	|	Cibinong 	|	16340
+139	|	Cidokom 	|	16340
+139	|	Curug 	|	16340
+139	|	Gunung Sindur 	|	16340
+139	|	Jampang 	|	16340
+139	|	Pabuaran 	|	16340
+139	|	Padurenan 	|	16340
+139	|	Pengasinan 	|	16340
+139	|	Rawakalong 	|	16340
+140	|	Bagoang 	|	16670
+140	|	Barengkok 	|	16670
+140	|	Cikopomayak 	|	16670
+140	|	Curug 	|	16670
+140	|	Jasinga 	|	16670
+140	|	Jugala Jaya 	|	16670
+140	|	Kalongsawah 	|	16670
+140	|	Koleang 	|	16670
+140	|	Neglasari 	|	16670
+140	|	Pamagersari 	|	16670
+140	|	Pangaur 	|	16670
+140	|	Pangradin 	|	16670
+140	|	Setu 	|	16670
+140	|	Sipak 	|	16670
+140	|	Tegal Wangi 	|	16670
+140	|	Wiraraja 	|	16670
+141	|	Balekambang 	|	16830
+141	|	Bendungan 	|	16830
+141	|	Cibodas 	|	16830
+141	|	Jonggol 	|	16830
+141	|	Singajaya 	|	16830
+141	|	Singasari 	|	16830
+141	|	Sirnagalih 	|	16830
+141	|	Sukagalih 	|	16830
+141	|	Sukajaya 	|	16830
+141	|	Sukamaju 	|	16830
+141	|	Sukamanah 	|	16830
+141	|	Sukanegara 	|	16830
+141	|	Sukasirna 	|	16830
+141	|	Weninggalih 	|	16830
+142	|	Atang Senjaya 	|	16310
+142	|	Bojong 	|	16310
+142	|	Jampang 	|	16310
+142	|	Kemang 	|	16310
+142	|	Pabuaran 	|	16310
+142	|	Parakan Jaya 	|	16310
+142	|	Pondok Udik 	|	16310
+142	|	Semplak Barat 	|	16310
+142	|	Tegal 	|	16310
+143	|	Bantar Jati 	|	16710
+143	|	Bojong 	|	16710
+143	|	Cikahuripan 	|	16710
+143	|	Kembang Kuning 	|	16710
+143	|	Klapanunggal 	|	16710
+143	|	Leuwikaret 	|	16710
+143	|	Ligarmukti 	|	16710
+143	|	Lulut 	|	16710
+143	|	Nambo 	|	16710
+144	|	Barengkok 	|	16640
+144	|	Cibeber 1 	|	16640
+144	|	Cibeber 2 	|	16640
+144	|	Karacak 	|	16640
+144	|	Karehkel 	|	16640
+144	|	Karyasari 	|	16640
+144	|	Leuwiliang 	|	16640
+144	|	Leuwimekar 	|	16640
+144	|	Pabangbon 	|	16640
+144	|	Purasari 	|	16640
+144	|	Puraseda 	|	16640
+145	|	Babakan Sadeng 	|	16640
+145	|	Kalong 1 	|	16640
+145	|	Kalong 2 	|	16640
+145	|	Leuwisadeng 	|	16640
+145	|	Sadeng 	|	16640
+145	|	Sadengkolot 	|	16640
+145	|	Sibanteng 	|	16640
+145	|	Wangun Jaya 	|	16640
+146	|	Cipayung (Cipayung Datar) 	|	16770
+146	|	Cipayung Girang 	|	16770
+146	|	Gadog 	|	16770
+146	|	Kuta 	|	16770
+146	|	Megamendung 	|	16770
+146	|	Sukagalih 	|	16770
+146	|	Sukakarya 	|	16770
+146	|	Sukamahi 	|	16770
+146	|	Sukamaju 	|	16770
+146	|	Sukamanah 	|	16770
+146	|	Sukaresmi 	|	16770
+147	|	Bantar Karet 	|	16650
+147	|	Cisarua 	|	16650
+147	|	Curug Bitung 	|	16650
+147	|	Hambaro 	|	16650
+147	|	Kalong Liud 	|	16650
+147	|	Malasari 	|	16650
+147	|	Nanggung 	|	16650
+147	|	Pangkal Jaya 	|	16650
+147	|	Parakan Muncang 	|	16650
+147	|	Sukaluyu 	|	16650
+148	|	Ciasihan 	|	16810
+148	|	Ciasmara 	|	16810
+148	|	Cibening 	|	16810
+148	|	Cibitung Kulon 	|	16810
+148	|	Cibitung Wetan 	|	16810
+148	|	Cibunian 	|	16810
+148	|	Cimayang 	|	16810
+148	|	Gunung Bunder 1 	|	16810
+148	|	Gunung Bunder 2 	|	16810
+148	|	Gunung Menyan 	|	16810
+148	|	Gunung Picung 	|	16810
+148	|	Gunung Sari 	|	16810
+148	|	Pamijahan 	|	16810
+148	|	Pasarean 	|	16810
+148	|	Purwabakti 	|	16810
+149	|	Bojong Indah 	|	16330
+149	|	Bojong Sempu 	|	16330
+149	|	Cogreg 	|	16330
+149	|	Iwul 	|	16330
+149	|	Jabon Mekar 	|	16330
+149	|	Pamagersari 	|	16330
+149	|	Parung 	|	16330
+149	|	Waru 	|	16330
+149	|	Warujaya 	|	16330
+150	|	Cibunar 	|	16360
+150	|	Cikuda 	|	16360
+150	|	Dago 	|	16360
+150	|	Gintung Cilejet 	|	16360
+150	|	Gorowong 	|	16360
+150	|	Jagabaya 	|	16360
+150	|	Jagabita 	|	16360
+150	|	Kabasiran 	|	16360
+150	|	Lumpang 	|	16360
+150	|	Parungpanjang 	|	16360
+150	|	Pingku 	|	16360
+151	|	Bantarjaya 	|	16310
+151	|	Bantarsari 	|	16310
+151	|	Candali 	|	16310
+151	|	Cimulang 	|	16310
+151	|	Mekarsari 	|	16310
+151	|	Pasirgaok 	|	16310
+151	|	Rancabungur 	|	16310
+152	|	Cibodas 	|	16350
+152	|	Cidokom 	|	16350
+152	|	Cipinang 	|	16350
+152	|	Gobang 	|	16350
+152	|	Kampung Sawah 	|	16350
+152	|	Kerta Jaya 	|	16350
+152	|	Leuwibatu 	|	16350
+152	|	Mekar Sari 	|	16350
+152	|	Rabak 	|	16350
+152	|	Rumpin 	|	16350
+152	|	Sukamulya 	|	16350
+152	|	Sukasari 	|	16350
+152	|	Taman Sari 	|	16350
+153	|	Cileuksa 	|	16660
+153	|	Cisarua 	|	16660
+153	|	Harkatjaya 	|	16660
+153	|	Kiara Pandak 	|	16660
+153	|	Kiarasari 	|	16660
+153	|	Pasir Madang 	|	16660
+153	|	Sipayung 	|	16660
+153	|	Sukajaya 	|	16660
+153	|	Sukamulih 	|	16660
+154	|	Cibadak 	|	16830
+154	|	Pabuaran 	|	16830
+154	|	Sirnajaya 	|	16830
+154	|	Sukadamai 	|	16830
+154	|	Sukaharja 	|	16830
+154	|	Sukamakmur 	|	16830
+154	|	Sukamulya 	|	16830
+154	|	Sukaresmi 	|	16830
+154	|	Sukawangi 	|	16830
+154	|	Wargajaya 	|	16830
+155	|	Cadas Ngampar 	|	16710
+155	|	Cibanon 	|	16710
+155	|	Cijujung 	|	16710
+155	|	Cikeas 	|	16710
+155	|	Cilebut Barat 	|	16710
+155	|	Cilebut Timur 	|	16710
+155	|	Cimandala 	|	16710
+155	|	Gunung Geulis 	|	16710
+155	|	Nagrak 	|	16710
+155	|	Pasir Jambu 	|	16710
+155	|	Pasirlaja 	|	16710
+155	|	Sukaraja 	|	16710
+155	|	Sukatani 	|	16710
+156	|	Citayam 	|	16320
+156	|	Kalisuren 	|	16320
+156	|	Nanggerang 	|	16320
+156	|	Sasak Panjang 	|	16320
+156	|	Sukmajaya 	|	16320
+156	|	Tajur Halang 	|	16320
+156	|	Tonjong 	|	16320
+157	|	Pasireurih 	|	16610
+157	|	Sirnagalih 	|	16610
+157	|	Sukajadi 	|	16610
+157	|	Sukajaya 	|	16610
+157	|	Sukaluyu 	|	16610
+157	|	Sukamantri 	|	16610
+157	|	Sukaresmi 	|	16610
+157	|	Tamansari 	|	16610
+158	|	Antajaya 	|	16840
+158	|	Buanajaya 	|	16840
+158	|	Cibadak 	|	16840
+158	|	Pasir Tanjung 	|	16840
+158	|	Selawangi 	|	16840
+158	|	Sirnarasa 	|	16840
+158	|	Sirnasari 	|	16840
+158	|	Sukarasa 	|	16840
+158	|	Tanjungrasa 	|	16840
+158	|	Tanjungsari 	|	16840
+159	|	Babakan 	|	16370
+159	|	Batok 	|	16370
+159	|	Bojong 	|	16370
+159	|	Cilaku 	|	16370
+159	|	Ciomas 	|	16370
+159	|	Singabangsa 	|	16370
+159	|	Singabraja 	|	16370
+159	|	Tapos 	|	16370
+159	|	Tenjo 	|	16370
+160	|	Cibitung Tengah 	|	16370
+160	|	Cinangneng 	|	16370
+160	|	Gunung Malang 	|	16370
+160	|	Situ Daun 	|	16370
+160	|	Tapos 1 	|	16370
+160	|	Tapos 2 	|	16370

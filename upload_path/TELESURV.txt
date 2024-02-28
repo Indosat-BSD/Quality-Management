@@ -1,0 +1,172 @@
+conn postpaid/postpaid@rgst02;
+
+drop table TELE_NOV_A;
+drop table TELE_NOV;
+
+create table TELE_NOV 
+(
+  MSISDN    VARCHAR2(20),
+  TICKET    VARCHAR2(20),
+  BRAND     VARCHAR2(20),
+  CHANNEL   VARCHAR2(20),
+  DATE_EXE  VARCHAR2(20)
+);
+
+--Jalankan SQL Loader
+sqlldr postpaid/postpaid@rgst02 control=D:\Nids\TELESURVEY\telesurv.CTL log=D:\Nids\TELESURVEY\telesurv.log
+
+-- setelah upload, Chek duplikasi data
+select count(msisdn),msisdn from TELE_NOV
+  having count(msisdn)>1
+  group by msisdn;
+
+-- Jalankan proses berikut setelah no duplicate :
+
+create table TELE_NOV_A as
+select a.*,b.account_name as CUST_NAME,b.address1||b.address2||b.address3||b.address4||b.address5 res_addr,b.account_status
+from TELE_NOV a, tb_dtpostpaid b
+where a.msisdn=b.last_msisdn(+);
+
+delete TELE_NOV_A where msisdn='MSISDN';
+commit;
+
+delete TELE_NOV_A where account_status in ('TA','SU') and msisdn in
+(select msisdn from TELE_NOV_A group by msisdn having count(msisdn)>1);
+
+Commit;
+
+ALTER TABLE POSTPAID.TELE_NOV_A
+MODIFY(CUST_NAME VARCHAR2(200 BYTE))
+/
+
+select count(msisdn),msisdn from TELE_NOV_A
+  having count(msisdn)>1
+  group by msisdn;
+
+select count(*) from TELE_NOV_A where cust_name is null;
+
+grant select,update,insert,delete on TELE_NOV_A to prepaid_report;
+
+=== Jalani untuk ambil profile Prepaid :
+
+conn prepaid_report/prepaid@rgst02;
+
+drop table TELE_NOV_B;
+drop table TELE_NOV_C;
+drop table TELE_NOV_D;
+
+CREATE TABLE TELE_NOV_B AS
+  SELECT A.MSISDN,A.TICKET,A.BRAND,A.CHANNEL,A.DATE_EXE,MIN(B.PRIORITY) AS PRIORITY
+  FROM POSTPAID.TELE_NOV_A A, TB_PROFILE@RGST01_PREPAID B
+  WHERE A.MSISDN=B.MSISDN(+) and a.CuST_NAME is null
+  GROUP BY A.MSISDN,A.TICKET,A.BRAND,A.CHANNEL,A.DATE_EXE;
+
+select count(*) from TELE_NOV_B;
+
+delete postpaid.TELE_NOV_A where cust_name is null;
+commit;
+
+delete TELE_NOV_B where msisdn='MSISDN';
+
+commit;
+
+CREATE TABLE TELE_NOV_C AS
+SELECT DISTINCT A.MSISDN,A.TICKET,A.BRAND,A.CHANNEL,A.DATE_EXE,B.CUST_NAME,B.RES_ADDR,A.PRIORITY
+  FROM TELE_NOV_B A, TB_PROFILE@RGST01_PREPAID B
+  WHERE A.MSISDN=B.MSISDN(+) AND A.PRIORITY=B.PRIORITY(+);
+
+-- Chek duplikasi data
+select count(msisdn),msisdn from TELE_NOV_C
+  having count(msisdn)>1
+  group by msisdn;
+
+-- Jika ada duplikasi : (gk haruss)
+create table TELE_NOV_D as
+select max(msisdn) as msisdn, max(TICKET) as TICKET,max(BRAND) as BRAND,max(CHANNEL) as CHANNEL,
+max(DATE_EXE) as DATE_EXE,max(CUST_NAME) as CUST_NAME,max(RES_ADDR) as RES_ADDR
+from TELE_NOV_C
+group by msisdn;
+
+select count(msisdn),msisdn from TELE_NOV_D
+  having count(msisdn)>1
+  group by msisdn;
+
+-- Jadikan satu dengan data POSTPAID
+
+insert into postpaid.TELE_NOV_A(MSISDN, TICKET, BRAND, CHANNEL, DATE_EXE, CUST_NAME, RES_ADDR)
+select MSISDN, TICKET, BRAND, CHANNEL, DATE_EXE, CUST_NAME, RES_ADDR 
+from TELE_NOV_C;
+commit;
+
+-- Jumlah yg di insert harus sama dengan yang sebelumnya di delete .
+
+------ Polling@oracdm
+conn polling/pass_polling@oracdm;
+
+--cek dupli
+select msisdn, count(msisdn) 
+from TELE_NOV_A@postpaid 
+group by msisdn 
+having count(msisdn)>1;
+
+-- Chek data yang terupload dlm aplikasi :
+
+select count(*) from TELE_NOV_A@postpaid
+
+delete TELE_NOV_A@postpaid where msisdn='msisdn';
+commit;
+
+select tb.*
+from 
+(select channel, 
+    count(case when BRAND = 'IM3 PREPAID' then 1 else null end) IM3_PREPAID,
+    count(case when BRAND = 'MENTARI PREPAID' then 1 else null end) MENTARI_PREPAID,
+    count(case when BRAND = 'MATRIX POSTPAID' then 1 else null end) MATRIX_POSTPAID,
+    count(case when BRAND = 'STARONE' then 1 else null end) STARONE
+from TELE_NOV_A@postpaid
+group by channel)tb  
+order by channel
+
+INSERT INTO TB_DTACT_CUST_QUE_4
+(DTA_MSISDN,DTA_NAME,DTA_ADDRESS,DTA_AREA,DTA_BRAND,DTA_LAYANAN,DTA_DATE)
+SELECT A.MSISDN AS DTA_MSISDN,A.CUST_NAME AS DTA_NAME, A.RES_ADDR AS DTA_ADDRESS,
+                                (case  when  CHANNEL LIKE '%SBY%' THEN '06'
+                                       when  CHANNEL LIKE '%JKT%' THEN '01'
+                                       when  CHANNEL LIKE '%MDN%' THEN '02'
+                                end )DTA_AREA,
+                                (case  when  BRAND LIKE '%MATRIX%' and CHANNEL LIKE '%MATRIX%' THEN '3'
+                                       when  BRAND LIKE '%MENTARI%' and CHANNEL LIKE '%PREPAID%' THEN '1'
+                                       when  BRAND LIKE '%IM3%' and CHANNEL LIKE '%PREPAID%' THEN '2'
+                                       when  CHANNEL LIKE '%VIP%' THEN '4'
+                                       when  BRAND LIKE '%STARONE%' and (CHANNEL LIKE '%STARONE%' or CHANNEL LIKE '%PREPAID%')  THEN '5'
+                                       when CHANNEL LIKE '%IM2%' THEN '6'
+				       when CHANNEL LIKE '%FMC%' THEN '7'
+                                end )DTA_BRAND,
+                                (CASE 
+                                  WHEN SUBSTR(TICKET,1,2)='11' THEN '1'
+                                  WHEN SUBSTR(TICKET,1,2)='12' THEN '3'
+                                  WHEN SUBSTR(TICKET,1,2)='13' THEN '4'
+                                  WHEN SUBSTR(TICKET,1,2)='14' THEN '4'
+                                END) DTA_LAYANAN,TO_DATE(DATE_EXE,'yyyy-mm-dd')AS DTA_DATE 
+ FROM TELE_NOV_A@postpaid a, TB_DTACT_CUST_QUE_4 b
+ where a.MSISDN=b.DTA_MSISDN(+) AND b.DTA_MSISDN IS NULL;
+
+commit;
+
+select count(*),brand from TB_DTACT_CUST_QUE_temp
+group by brand
+
+
+----------- @prepaid_report jika date error  
+--conn prepaid_report/prepaid@rgst02;
+
+select length(date_exe),count(1) from TELE_NOV_A@postpaid
+group by length(date_exe);
+
+select substr(date_exe,5,4),count(1) from TELE_NOV_A@postpaid
+group by substr(date_exe,5,4);
+
+update TELE_NOV_A@postpaid set date_exe ='2009-12-03'
+where substr(date_exe,5,4) ='2-20';
+
+commit;

@@ -1,0 +1,248 @@
+80	|	Bantar Gebang	|	17151
+80	|	Ciketing Udik	|	17153
+80	|	Cikiwul	|	17152
+80	|	Sumur Batu	|	17154
+81	|	Bintara	|	17134
+81	|	Bintara Jaya	|	17136
+81	|	Jaka Sampurna	|	17145
+81	|	Kota Baru	|	17133
+81	|	Kranji	|	17135
+82	|	Jaka Mulya	|	17146
+82	|	Jaka Setia	|	17147
+82	|	Kayuringin Jaya	|	17144
+82	|	Margajaya	|	17141
+82	|	Pekayon Jaya	|	17148
+83	|	Aren Jaya	|	17111
+83	|	Bekasi Jaya	|	17112
+83	|	Duren Jaya	|	17111
+83	|	Margahayu	|	17113
+84	|	Harapan Baru	|	17123
+84	|	Harapan Jaya	|	17124
+84	|	Kali Abang Tengah	|	17125
+84	|	Marga Mulya	|	17142
+84	|	Perwira	|	17122
+84	|	Teluk Pucung	|	17121
+85	|	Jatikarya	|	17435
+85	|	Jatikarya	|	17435
+85	|	Jatiraden	|	17433
+85	|	Jatiraden	|	17433
+85	|	Jatirangga	|	17434
+85	|	Jatirangga	|	17434
+85	|	Jatiranggon	|	17432
+85	|	Jatiranggon	|	17432
+85	|	Jatisampurna	|	17433
+85	|	Jatisampurna	|	17433
+86	|	Jati Mekar	|	17422
+86	|	Jatiasih	|	17423
+86	|	Jatikramat	|	17421
+86	|	Jatiluhur	|	17425
+86	|	Jatirasa	|	17424
+86	|	Jatisari	|	17426
+87	|	Harapan Mulya	|	17143
+87	|	Kali Baru	|	17133
+87	|	Medan Satria	|	17132
+87	|	Pejuang	|	17131
+88	|	Cimuning	|	17155
+88	|	Mustika Jaya	|	17158
+88	|	Mustika Sari	|	17157
+88	|	Pedurenan (Padurenan)	|	17156
+89	|	Jatibening	|	17412
+89	|	Jatibening Baru	|	17412
+89	|	Jaticempaka	|	17411
+89	|	Jatimakmur	|	17413
+89	|	Jatiwaringin	|	17411
+90	|	Jati Rahayu	|	17414
+90	|	Jatimelati	|	17414
+90	|	Jatimurni	|	17431
+90	|	Jatiwarna	|	17415
+91	|	Bojong Menteng	|	17117
+91	|	Bojong Rawalumbu	|	17116
+91	|	Pengasinan	|	17115
+91	|	Sepanjang Jaya	|	17114
+92	|	Babelan Kota	|	17610
+92	|	Bahagia	|	17610
+92	|	Buni Bakti	|	17610
+92	|	Hurip Jaya	|	17610
+92	|	Kebalen	|	17610
+92	|	Kedung Pengawas	|	17610
+92	|	Kedungjaya	|	17610
+92	|	Muara Bakti	|	17610
+92	|	Pantai Hurip	|	17610
+93	|	Bojongmanggu	|	17352
+93	|	Karangindah	|	17350
+93	|	Karangmulya	|	17356
+93	|	Medalkrisna	|	17350
+93	|	Sukabungah	|	17350
+93	|	Sukamukti	|	17350
+94	|	Jaya Bakti	|	17720
+94	|	Jaya Laksana	|	17720
+94	|	Lenggah Jaya	|	17720
+94	|	Lenggah Sari	|	17720
+94	|	Setia Jaya	|	17720
+94	|	Setialaksana	|	17720
+94	|	Sindang Jaya	|	17720
+94	|	Sindangsari	|	17720
+95	|	Cibarusahjaya	|	17340
+95	|	Cibarusahkota	|	17340
+95	|	Ridogalih	|	17340
+95	|	Ridomanah	|	17340
+95	|	Sindangmulya	|	17340
+95	|	Sirnajati	|	17340
+95	|	Wibawamulya	|	17340
+96	|	Cibuntu	|	17520
+96	|	Kerta Mukti	|	17520
+96	|	Muktiwari	|	17520
+96	|	Sarimukti	|	17520
+96	|	Sukajaya	|	17520
+96	|	Wanajaya	|	17520
+96	|	Wanasari	|	17520
+97	|	Cikedokan	|	17530
+97	|	Danau Indah	|	17530
+97	|	Gandamekar	|	17530
+97	|	Gandasari	|	17530
+97	|	Jatiwangi	|	17530
+97	|	Kali Jaya	|	17530
+97	|	Mekar Wangi	|	17530
+97	|	Sukadanau	|	17530
+97	|	Telaga Asih	|	17530
+97	|	Telaga Murni	|	17530
+97	|	Telajung	|	17530
+98	|	Cicau	|	17530
+98	|	Hegarmukti	|	17530
+98	|	Jayamukti	|	17530
+98	|	Pasirpanji	|	17530
+98	|	Pasirtanjung	|	17530
+98	|	Sukamahi	|	17530
+99	|	Ciantra	|	17530
+99	|	Cibatu	|	17530
+99	|	Pasirsari	|	17530
+99	|	Serang	|	17530
+99	|	Sukadami	|	17530
+99	|	Sukaresmi	|	17530
+99	|	Sukasejati	|	17530
+100	|	Cipayung	|	17530
+100	|	Hegarmanah	|	17530
+100	|	Jatibaru	|	17530
+100	|	Jatireja	|	17530
+100	|	Karangsari	|	17530
+100	|	Labansari	|	17530
+100	|	Sertajaya	|	17530
+100	|	Tanjungbaru	|	17530
+101	|	Cikarang Kota	|	17530
+101	|	Harja Mekar	|	17530
+101	|	Karang Baru	|	17530
+101	|	Karangasih	|	17530
+101	|	Karangraharja	|	17530
+101	|	Mekarmukti	|	17530
+101	|	Pasir Gombong	|	17530
+101	|	Simpangan	|	17530
+101	|	Tanjungsari	|	17530
+101	|	Waluya	|	17530
+101	|	Wangunharja	|	17530
+102	|	Karang Bahagia	|	17530
+102	|	Karang Rahayu	|	17530
+102	|	Karang Sentosa	|	17530
+102	|	Karang Setra	|	17530
+102	|	Karang Setu	|	17530
+102	|	Karanganyar	|	17530
+102	|	Karangmukti	|	17530
+102	|	Sukaraya	|	17530
+103	|	Bojongsari	|	17540
+103	|	Karang Harum	|	17540
+103	|	Karang Mekar	|	17540
+103	|	Karang Sambung	|	17540
+103	|	Kedungwaringin	|	17540
+103	|	Mekar Jaya	|	17540
+103	|	Waringin Jaya	|	17540
+104	|	Jayasakti	|	17730
+104	|	Pantai Bahagia	|	17730
+104	|	Pantai Bakti	|	17730
+104	|	Pantai Harapan Jaya	|	17730
+104	|	Pantai Mekar	|	17730
+104	|	Pantai Sederhana	|	17730
+105	|	Bantarjaya	|	17710
+105	|	Bantarsari	|	17710
+105	|	Karang Harja	|	17710
+105	|	Karanghaur	|	17710
+105	|	Karangjaya	|	17710
+105	|	Karangpatri	|	17710
+105	|	Karangreja	|	17710
+105	|	Karangsegar	|	17710
+105	|	Kertajaya	|	17710
+105	|	Kertasari	|	17710
+105	|	Sumberreja	|	17710
+105	|	Sumbersari	|	17710
+105	|	Sumberurip	|	17710
+106	|	Cilangkara	|	17330
+106	|	Jaya Sampurna	|	17330
+106	|	Jayamulya	|	17330
+106	|	Nagacipta	|	17330
+106	|	Nagasari	|	17330
+106	|	Sirnajaya	|	17330
+106	|	Sukaragam	|	17330
+106	|	Sukasari	|	17330
+107	|	Burangkeng	|	17320
+107	|	Cibening	|	17320
+107	|	Cijengkol	|	17320
+107	|	Cikarageman	|	17320
+107	|	Cileduk	|	17320
+107	|	Kertarahayu	|	17320
+107	|	Lubangbuaya	|	17320
+107	|	Muktijaya	|	17320
+107	|	Ragemanunggal	|	17320
+107	|	Taman Rahayu	|	17320
+107	|	Taman Sari	|	17320
+108	|	Sukaindah	|	17630
+108	|	Sukajadi	|	17630
+108	|	Sukakarya	|	17630
+108	|	Sukakersa	|	17630
+108	|	Sukalaksana	|	17630
+108	|	Sukamakmur	|	17630
+108	|	Sukamurni	|	17630
+109	|	Banjar Sari	|	17630
+109	|	Suka Asih	|	17630
+109	|	Sukadarma	|	17630
+109	|	Sukahurip	|	17630
+109	|	Sukamanah	|	17630
+109	|	Sukamulya	|	17630
+109	|	Sukarukun	|	17630
+110	|	Sukabudi	|	17620
+110	|	Sukadaya	|	17620
+110	|	Sukakerta	|	17620
+110	|	Sukamekar	|	17620
+110	|	Sukaringin	|	17620
+110	|	Sukatenang	|	17620
+110	|	Sukawangi	|	17620
+111	|	Sukabakti	|	17620
+111	|	Sukamaju	|	17620
+111	|	Sukamantri	|	17620
+111	|	Sukarahayu	|	17620
+111	|	Sukaraja	|	17620
+111	|	Sukarapih	|	17620
+111	|	Sukawijaya	|	17620
+112	|	Jatimulya	|	17510
+112	|	Lambangjaya	|	17510
+112	|	Lambangsari	|	17510
+112	|	Mangunjaya	|	17510
+112	|	Mekarsari	|	17510
+112	|	Setiadarma	|	17510
+112	|	Setiamekar	|	17510
+112	|	Sumber Jaya	|	17510
+112	|	Tambun	|	17510
+112	|	Tridaya Sakti	|	17510
+113	|	Jalenjaya (Jejalenjaya)	|	17510
+113	|	Karangsatria	|	17510
+113	|	Satriajaya	|	17510
+113	|	Satriamekar	|	17510
+113	|	Sriamur	|	17510
+113	|	Srijaya	|	17510
+113	|	Srimahi	|	17510
+113	|	Srimukti	|	17510
+114	|	Pahlawan Setia	|	17216
+114	|	Pantai Makmur	|	17212
+114	|	Pusaka Rakyat	|	17214
+114	|	Samudra Jaya	|	17217
+114	|	Segara Jaya	|	17218
+114	|	Segara Makmur	|	17211
+114	|	Setia Asih	|	17215
+114	|	Setia Mulya	|	17213
